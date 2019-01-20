@@ -1,4 +1,4 @@
-# Traffiti
+# Traffiti (Hackatown 2019)
 
 ## How to install
 If you are using Linux, install SUMO from your package manager
