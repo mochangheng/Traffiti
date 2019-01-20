@@ -13,6 +13,6 @@ If you are using Windows, download the SUMO installer from the [official website
 ## The code
 Run `runner.py` to train the agent. (Recommend using to --nogui option so that the training simulation is not shown)
 
-Run `benchmark.py` to see the performance of a fixed-time traffic light system
+Run `benchmark.py` to see the performance of a fixed-time traffic light system.
 
-Run `evaluate.py` to see the performance of the agent
+Run `evaluate.py` to see the performance of the agent.
